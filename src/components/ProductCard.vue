@@ -28,4 +28,10 @@
     padding: 10px;
     margin: 5px 0;
 }
+
+h3 {
+    color: white;
+    font-size: 13px;
+    text-align: center;
+}
 </style>
