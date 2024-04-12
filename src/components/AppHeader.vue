@@ -68,11 +68,6 @@ export default {
             </div>
         </div>
     </header>
-    <main>
-        <div class="container">
-            --> Contents goes here <--
-        </div>
-    </main>
 </template>
 
 <style scoped lang="scss">
@@ -114,12 +109,4 @@ nav {
         }
     }
 }
-
-main {
-    background-color: rgba(0, 0, 0, 0.884);
-    color: white;
-    font-size: 25px;
-    padding: 40px;
-}
-
 </style>
